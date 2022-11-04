@@ -18,7 +18,7 @@ column details
  1. How many employees where hired each hire date
  2. How many employees per supervisor
  3. How many employees per Org_Name
-*******/
+******/
 
 -- Overview of the data
 SELECT
