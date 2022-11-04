@@ -1,4 +1,4 @@
-/******* Data Cleaning & Exploratoty Query
+/****** Data Cleaning & Exploratoty Query
 
 column details
 -- hire date - shows the hiring date of the employee
